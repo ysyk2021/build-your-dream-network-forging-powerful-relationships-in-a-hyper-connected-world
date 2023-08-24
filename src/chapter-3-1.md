@@ -1,5 +1,3 @@
-Techniques for Building and Expanding Your Network
-====================================================================================================
 
 In this chapter, we'll explore techniques for building and expanding your network to help you forge powerful relationships in a hyper-connected world.
 

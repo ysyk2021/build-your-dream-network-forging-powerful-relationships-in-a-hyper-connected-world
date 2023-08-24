@@ -1,5 +1,3 @@
-Chapter 4: Leveraging Social Media for Networking
-=================================================
 
 In this chapter, we'll explore the power of social media in modern networking and techniques for leveraging social media platforms to build strong and effective relationships.
 

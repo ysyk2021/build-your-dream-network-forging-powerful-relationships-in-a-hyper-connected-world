@@ -1,5 +1,3 @@
-Techniques for Leveraging Social Media Platforms for Networking
-==================================================================================================================
 
 In this chapter, we'll explore techniques for leveraging social media platforms to build strong and effective relationships.
 

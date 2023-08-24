@@ -1,5 +1,3 @@
-Understanding the Importance of Mentorship and Sponsorship
-=========================================================================================================
 
 In this chapter, we'll explore the importance of mentorship and sponsorship in networking for professional growth.
 

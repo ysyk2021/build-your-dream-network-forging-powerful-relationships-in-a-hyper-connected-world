@@ -1,5 +1,3 @@
-Understanding the Importance of Diversity in Your Network
-===========================================================================================================
 
 In this chapter, we'll explore the importance of diversity in your network and how it can help you build a more powerful and effective network.
 

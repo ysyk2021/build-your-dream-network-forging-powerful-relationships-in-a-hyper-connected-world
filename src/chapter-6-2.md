@@ -1,5 +1,3 @@
-Techniques for Leveraging Your Network for Career Advancement
-============================================================================================================
 
 In this chapter, we'll explore techniques for leveraging your network for career advancement and achieving professional growth.
 

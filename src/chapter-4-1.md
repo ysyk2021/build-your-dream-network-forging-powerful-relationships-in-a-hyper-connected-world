@@ -1,5 +1,3 @@
-The Role of Personal Branding in Networking
-====================================================================================
 
 In this chapter, we'll explore the role of personal branding in networking and why it's essential for building powerful relationships.
 

@@ -1,5 +1,3 @@
-Chapter 5: Networking for Professional Growth
-=============================================
 
 In this chapter, we'll explore the value of networking for professional growth and techniques for leveraging your network to advance your career.
 

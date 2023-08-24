@@ -1,5 +1,3 @@
-What is a Dream Network?
-======================================
 
 In this book, we'll explore the concept of a dream network and how it can help you achieve your personal and professional goals in today's hyper-connected world.
 

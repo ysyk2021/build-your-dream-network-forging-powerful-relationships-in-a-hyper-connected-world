@@ -1,5 +1,3 @@
-Overview of Networking Theory
-===============================================================================
 
 In this chapter, we'll explore the basics of networking theory and how it can help you build strong and effective relationships.
 

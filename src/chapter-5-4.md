@@ -1,5 +1,3 @@
-Balancing Online and Offline Networking Practices
-====================================================================================================
 
 In this chapter, we'll explore the importance of leveraging social media for networking and techniques for balancing online and offline networking practices.
 

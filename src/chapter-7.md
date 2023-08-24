@@ -1,5 +1,3 @@
-Chapter 6: Overcoming Common Challenges
-=======================================
 
 In this chapter, we'll explore common challenges that arise when networking and techniques for overcoming them.
 

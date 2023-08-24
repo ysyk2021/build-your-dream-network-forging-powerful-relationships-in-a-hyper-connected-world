@@ -1,5 +1,3 @@
-Developing Self-Awareness as a Networker
-==========================================================================================
 
 In this chapter, we'll explore the importance of self-awareness in networking and how it can help you build more effective and meaningful relationships.
 

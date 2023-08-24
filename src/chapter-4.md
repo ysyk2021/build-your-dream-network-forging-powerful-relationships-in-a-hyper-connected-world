@@ -1,5 +1,3 @@
-Chapter 3: Crafting Your Personal Brand
-=======================================
 
 In this chapter, we'll explore the role of personal branding in networking and provide techniques for developing and communicating your personal brand.
 

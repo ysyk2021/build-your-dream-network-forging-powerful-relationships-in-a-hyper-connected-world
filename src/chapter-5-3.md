@@ -1,5 +1,3 @@
-Overcoming Common Challenges in Using Social Media for Networking
-====================================================================================================================
 
 In this chapter, we'll explore common challenges that can arise when using social media for networking and how to overcome them.
 

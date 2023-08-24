@@ -1,5 +1,3 @@
-Identifying the Characteristics of a Strong Network
-=====================================================================================================
 
 In this chapter, we'll explore the characteristics of a strong network and how you can identify them to build more effective relationships.
 

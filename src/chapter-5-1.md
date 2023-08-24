@@ -1,5 +1,3 @@
-The Power of Social Media in Modern Networking
-=================================================================================================
 
 In this chapter, we'll explore the power of social media in modern networking and how it has transformed the way we build and maintain relationships.
 

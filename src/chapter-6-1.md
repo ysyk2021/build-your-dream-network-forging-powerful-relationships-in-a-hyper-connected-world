@@ -1,5 +1,3 @@
-Recognizing the Value of Networking for Professional Growth
-==========================================================================================================
 
 In this chapter, we'll explore the value of networking for professional growth and how it can help you achieve your career goals.
 

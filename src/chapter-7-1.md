@@ -1,5 +1,3 @@
-Addressing Common Challenges in Networking
-===================================================================================
 
 In this chapter, we'll explore common challenges that arise when networking and techniques for overcoming them.
 

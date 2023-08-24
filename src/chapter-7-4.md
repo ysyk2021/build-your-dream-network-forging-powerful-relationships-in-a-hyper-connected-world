@@ -1,5 +1,3 @@
-Dealing with Rejection and Disappointment
-==================================================================================
 
 In this chapter, we'll explore common challenges that can arise when building a dream network, specifically rejection and disappointment, and how to overcome them.
 

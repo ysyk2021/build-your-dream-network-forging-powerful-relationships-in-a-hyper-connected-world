@@ -1,5 +1,3 @@
-Chapter 1: Understanding the Power of Networking
-================================================
 
 In this chapter, we'll explore the power of networking and how it can help you build strong and effective relationships to support your professional growth and success.
 

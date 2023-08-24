@@ -1,5 +1,3 @@
-Building Resilience and Adaptability Through Your Network
-========================================================================================================
 
 In this chapter, we'll explore how networking can help build resilience and adaptability in your professional life.
 

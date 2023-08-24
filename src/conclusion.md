@@ -1,4 +1,3 @@
-# Conclusion
 
 In this book, we've explored the power of networking and how it can help you build strong and effective relationships to support your personal and professional growth in today's hyper-connected world.
 

@@ -1,5 +1,3 @@
-Building Trust Through Networking
-===================================================================================
 
 In this chapter, we'll explore the power of networking and how it can help you build trust with individuals in your professional network.
 

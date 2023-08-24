@@ -1,5 +1,3 @@
-Incorporating Technology into Your Networking Practices
-=========================================================================================================
 
 In this chapter, we'll explore how technology can be incorporated into networking practices to build and cultivate your network.
 

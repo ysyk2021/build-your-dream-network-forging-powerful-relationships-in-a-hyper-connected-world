@@ -1,5 +1,3 @@
-Techniques for Developing and Communicating Your Personal Brand
-========================================================================================================
 
 In this chapter, we'll explore techniques for developing and communicating your personal brand effectively.
 

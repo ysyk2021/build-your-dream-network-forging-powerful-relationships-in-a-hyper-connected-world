@@ -1,5 +1,3 @@
-Nurturing and Maintaining Relationships Within Your Network
-=============================================================================================================
 
 In this chapter, we'll explore how to nurture and maintain relationships within your network to build and cultivate a powerful network that supports your professional growth and success.
 

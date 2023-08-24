@@ -1,5 +1,3 @@
-Building Credibility and Authority through Your Personal Brand
-=======================================================================================================
 
 In this chapter, we'll explore the importance of crafting your personal brand and techniques for building credibility and authority through it.
 

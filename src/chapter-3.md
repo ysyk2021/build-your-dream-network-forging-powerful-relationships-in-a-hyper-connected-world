@@ -1,5 +1,3 @@
-Chapter 2: Building and Cultivating Your Network
-================================================
 
 In this chapter, we'll explore techniques for building and expanding your network, understanding the importance of diversity in your network, nurturing and maintaining relationships within your network, and incorporating technology into your networking practices.
 

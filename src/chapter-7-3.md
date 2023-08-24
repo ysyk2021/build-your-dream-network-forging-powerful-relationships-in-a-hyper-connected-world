@@ -1,5 +1,3 @@
-Managing Time and Energy Effectively
-=============================================================================
 
 In this chapter, we'll explore common challenges that arise when networking, particularly managing time and energy effectively, and techniques for overcoming these challenges.
 

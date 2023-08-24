@@ -1,5 +1,3 @@
-Coping with Fear and Anxiety around Networking
-=======================================================================================
 
 In this chapter, we'll explore common challenges that arise when networking, particularly fear and anxiety, and techniques for coping with these challenges.
 
