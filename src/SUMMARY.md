@@ -36,3 +36,4 @@
   - [Dealing with rejection and disappointment](chapter-7-4.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)

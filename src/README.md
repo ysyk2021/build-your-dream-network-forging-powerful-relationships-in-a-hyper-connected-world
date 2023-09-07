@@ -10,3 +10,7 @@ But this book is about more than just networking -- it's about building meaningf
 Whether you're looking to advance within your current company, break into a new industry, or start your own business, "Build Your Dream Network: Forging Powerful Relationships in a Hyper-Connected World" has the insights, strategies, and tools you need to succeed. So, let's get started -- building your dream network starts here.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
