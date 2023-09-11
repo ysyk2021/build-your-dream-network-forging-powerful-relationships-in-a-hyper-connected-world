@@ -1,5 +1,4 @@
-Chapter 7: Managing Time and Energy Effectively
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In a hyper-connected world, building and nurturing a dream network can be both rewarding and demanding. To make the most of your networking efforts, it's essential to manage your time and energy effectively. This chapter explores strategies to help you achieve this balance.
 

@@ -1,5 +1,4 @@
-Chapter 5: Addressing Common Challenges in Personal Branding
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the common challenges that individuals face when building and maintaining their personal brand in our hyper-connected world. Personal branding is a critical component of networking and professional growth, and understanding how to navigate its challenges is essential for success.
 

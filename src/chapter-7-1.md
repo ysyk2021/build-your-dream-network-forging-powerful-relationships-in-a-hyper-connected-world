@@ -1,5 +1,4 @@
-Chapter 8: Addressing Common Challenges in Networking
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Networking in a hyper-connected world presents numerous opportunities but also comes with its fair share of challenges. In this chapter, we will explore the common obstacles that individuals face while building their dream networks and provide strategies to overcome them.
 

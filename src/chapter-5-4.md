@@ -1,5 +1,4 @@
-Chapter 10: Balancing Online and Offline Networking Practices
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In our hyper-connected world, effective networking requires a harmonious blend of online and offline practices. This chapter explores the importance of striking the right balance between these two approaches for building powerful relationships.
 

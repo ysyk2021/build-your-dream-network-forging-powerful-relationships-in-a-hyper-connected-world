@@ -1,5 +1,4 @@
-Chapter 7: Building Resilience and Adaptability Through Your Network
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how your network can be a valuable asset in building resilience and adaptability in our hyper-connected world. Resilience and adaptability are essential qualities for navigating the challenges of a dynamic professional landscape, and your network can play a crucial role in helping you develop and strengthen these qualities.
 

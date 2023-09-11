@@ -1,5 +1,4 @@
-Chapter 6: Techniques for Leveraging Social Media Platforms for Networking
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's hyper-connected world, social media platforms have become indispensable tools for forging powerful relationships and expanding your network. This chapter explores techniques for effectively harnessing the potential of social media in your networking endeavors.
 

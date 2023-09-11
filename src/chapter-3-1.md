@@ -1,5 +1,4 @@
-Chapter 6: Techniques for Building and Expanding Your Network
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the quest to build your dream network in a hyper-connected world, it's essential to have a repertoire of effective techniques at your disposal. This chapter delves into practical strategies and techniques for not only growing your network but also nurturing valuable and powerful relationships.
 

@@ -1,5 +1,4 @@
-Chapter 4: Building Trust Through Networking
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the critical role that trust plays in effective networking and relationship building in our hyper-connected world. Trust is the foundation upon which meaningful and lasting connections are built, and understanding how to cultivate and maintain trust is essential for success in the world of networking.
 

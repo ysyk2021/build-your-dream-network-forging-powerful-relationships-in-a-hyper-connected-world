@@ -1,5 +1,4 @@
-Chapter 5: Coping with Fear and Anxiety Around Networking
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Networking is a powerful tool for building relationships and advancing in your personal and professional life, but it can also trigger fear and anxiety for many people. In this chapter, we will explore strategies to help you cope with these common fears and anxieties associated with networking in a hyper-connected world.
 

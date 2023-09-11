@@ -1,5 +1,4 @@
-Chapter 12: Dealing with Rejection and Disappointment
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the journey to build your dream network in a hyper-connected world, rejection and disappointment are inevitable companions. This chapter explores strategies for coping with setbacks and turning them into valuable learning experiences.
 

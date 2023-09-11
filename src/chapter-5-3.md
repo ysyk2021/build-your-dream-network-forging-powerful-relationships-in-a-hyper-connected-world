@@ -1,5 +1,4 @@
-Chapter 7: Overcoming Common Challenges in Using Social Media for Networking
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In our hyper-connected world, social media has become an invaluable tool for building and nurturing relationships. However, like any powerful tool, it comes with its own set of challenges. In this chapter, we will explore the common hurdles people face when using social media for networking and provide strategies to overcome them.
 

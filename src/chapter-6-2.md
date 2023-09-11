@@ -1,5 +1,4 @@
-Chapter 6: Techniques for Leveraging Your Network for Career Advancement
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore practical techniques and strategies for effectively leveraging your network to advance your career in our hyper-connected world. Building meaningful relationships is a valuable asset in today's professional landscape, and knowing how to utilize your network can open doors to exciting opportunities.
 

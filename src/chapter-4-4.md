@@ -1,5 +1,4 @@
-Chapter 5: Building Credibility and Authority through Your Personal Brand
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the ever-evolving landscape of networking and relationship building, your personal brand is one of your most valuable assets. It's not just about what you know but also how you present yourself and how others perceive you. In this chapter, we'll explore the essential steps to build credibility and authority through your personal brand, positioning yourself as a trusted and influential figure in your network.
 

@@ -1,5 +1,4 @@
-Chapter 5: Identifying the Characteristics of a Strong Network
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the key characteristics that define a strong and effective network in our hyper-connected world. Understanding these attributes will enable you to evaluate and enhance your network to create a supportive and powerful resource for your professional journey.
 

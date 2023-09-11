@@ -1,5 +1,4 @@
-Chapter 3: Developing Self-Awareness as a Networker
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the essential role of self-awareness in becoming an effective networker and forging powerful relationships in our hyper-connected world. Self-awareness is the cornerstone of personal growth and relationship-building, and understanding oneself is key to navigating the complexities of networking successfully.
 

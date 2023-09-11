@@ -1,5 +1,4 @@
-Chapter 2: Overview of Networking Theory
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the fundamental theories and principles that underpin effective networking in our hyper-connected world. Understanding the theoretical foundations of networking can provide you with valuable insights and strategies for building powerful relationships and achieving your professional goals.
 

@@ -1,5 +1,4 @@
-Chapter 3: Recognizing the Value of Networking for Professional Growth
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the fundamental importance of networking for professional growth in our hyper-connected world. Understanding the value that networking brings to your career is essential for building and maintaining meaningful relationships that can propel you forward in your professional journey.
 
